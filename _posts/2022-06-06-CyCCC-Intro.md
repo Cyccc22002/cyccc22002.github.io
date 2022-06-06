@@ -11,10 +11,8 @@ image:
   width: 800
   height: 800
   alt: Cyber School - Fort Gordon
-
-![CyberSchoolImage](/assets/United_States_Army_Cyber_School.png)
-
 ---
+![CyberSchoolImage](/assets/United_States_Army_Cyber_School.png)
 
 ## Cyber Captains Career Course
 ---
