@@ -1,15 +1,16 @@
 ---
 title: CyCCC Intro
-author: Watkins
+author:
+  name: Reece Watkins
 date: 2022-06-06 11:33:00 +0800
 categories: [Blogging, Intro]
 tags: [CyCCC]
 comments: true
 image:
   path: /assets/United_States_Army_Cyber_School.png
-  width: 800
-  height: 800
-  alt: Cyber School - Fort Gordon
+  width: 1000
+  height: 1000
+  alt: CyCCC 22-002 Class logo
 ---
 ![CyberSchoolImage](/assets/United_States_Army_Cyber_School.png)
 
@@ -22,4 +23,5 @@ Our class will be adding (maybe) to this blog site. Allowing the sharing of idea
 This serves as a test post as well. 
 
 Please let this post know how the comments are working.
+
 ---
