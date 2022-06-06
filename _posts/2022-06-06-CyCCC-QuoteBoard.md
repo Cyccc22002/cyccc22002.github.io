@@ -17,9 +17,9 @@ image:
 ---
 ### A collection of quotes the class has deemed important enough to live on here. 
 
-`There is no retention problem`
-`Constraint vs Restraint`
-`DENIED`
-`So say us all`
+`There is no retention problem`<br />
+`Constraint vs Restraint`<br />
+`DENIED`<br />
+`So say us all`<br />
 
 ---
