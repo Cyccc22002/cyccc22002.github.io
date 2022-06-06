@@ -7,14 +7,11 @@ tags: [CyCCC]
 math: true
 mermaid: true
 image:
-  path: /assets/lib/United_States_Army_Cyber_School.png
+  path: /assets/United_States_Army_Cyber_School.png
   width: 800
   height: 800
   alt: Cyber School - Fort Gordon
 ---
-
-This post is to show Markdown syntax rendering on [**Chirpy**](https://github.com/cotes2020/jekyll-theme-chirpy/fork), you can also use it as an example of writing. Now, let's start looking at text and typography.
-
 
 ## Cyber Captains Career Course
 ---
