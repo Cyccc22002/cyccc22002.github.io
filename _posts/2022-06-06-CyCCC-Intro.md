@@ -5,7 +5,6 @@ author:
 date: 2022-06-06 11:33:00 +0800
 categories: [Blogging, Intro]
 tags: [CyCCC]
-comments: true
 image:
   path: /assets/United_States_Army_Cyber_School.png
   width: 1000
