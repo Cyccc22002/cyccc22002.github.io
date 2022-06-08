@@ -23,7 +23,7 @@ S2: Provide intel for any class event- PT, TEWT, Staff Ride etc, also provide in
 
 S3: Provide operations oversight, duty rosters etc. 
 
-S4: Identify classrooms supply shortfalls and provide to ies and 
+S4: Identify classrooms supply shortfalls.
 
 S6: Identify classroom IT that is inoperable so CTB S6 can address.  Assist classmates with IT issues as appropriate. 
 
