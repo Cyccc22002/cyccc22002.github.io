@@ -1,46 +1,80 @@
-# Chirpy Starter [![Gem Version](https://img.shields.io/gem/v/jekyll-theme-chirpy)](https://rubygems.org/gems/jekyll-theme-chirpy) [![GitHub license](https://img.shields.io/github/license/cotes2020/chirpy-starter.svg?color=blue)][mit]
+# CyCCC 22-002 Blog Site [![GitHub license](https://img.shields.io/github/license/cotes2020/chirpy-starter.svg?color=blue)][mit]
 
-When installing the [**Chirpy**][chirpy] theme through [RubyGems.org][gem], Jekyll can only read files in the folders `_includes`, `_layout`, `_sass` and `assets`, as well as a small part of options of the `_config.yml` file from the theme's gem. If you have ever installed this theme gem, you can use the command `bundle info --path jekyll-theme-chirpy` to locate these files.
+#### PREFACE
+This public repo is used to host the Cyber Captians Career Course Blog site. This does not represent the Army in any way.<br />
+The posts and information herein are the thoughts and opinions of the originating contributor. 
 
-The Jekyll organization claims that this is to leave the ball in the user’s court, but this also results in users not being able to enjoy the out-of-the-box experience when using feature-rich themes.
+## Making Changes and Contributing
 
-To fully use all the features of **Chirpy**, you need to copy the other critical files from the theme's gem to your Jekyll site. The following is a list of targets:
+### Install Dependencies
 
-```shell
-.
-├── _config.yml
-├── _data
-├── _plugins
-├── _tabs
-└── index.html
+```bash
+sudo apt update
+sudo apt install ruby-full build-essential zlib1g-dev git
+```
+To avoid installing RubyGems packages as the root user:
+
+```bash
+echo '# Install Ruby Gems to ~/gems' >> ~/.bashrc
+echo 'export GEM_HOME="$HOME/gems"' >> ~/.bashrc
+echo 'export PATH="$HOME/gems/bin:$PATH"' >> ~/.bashrc
+source ~/.bashrc
+```
+Install Jekyll bundler: 
+
+```bash
+gem install jekyll bundler
 ```
 
-In order to save your time, and to prevent you from missing some files when copying, we extract those files/configurations of the latest version of the **Chirpy** theme and the [CD][CD] workflow to here, so that you can start writing in minutes.
+### Pull repo and create branch
 
-## Prerequisites
+this step just gets you onto a branch of code to make all changes and avoid flooding the master branch with commits.<br />
+(do as I say not as I do, built in an environment without access to serve site locally)
 
-Follow the instructions in the [Jekyll Docs](https://jekyllrb.com/docs/installation/) to complete the installation of `Ruby`, `RubyGems`, `Jekyll` and `Bundler`.
+```bash
+git clone https://github.com/Cyccc22002/cyccc22002.github.io.git
+git checkout -b <intuitive-branch-name>
+bundle
+``` 
 
-## Installation
+### Serve site locally to test changes
 
-[**Use this template**][use-template] to generate a brand new repository and name it `<GH_USERNAME>.github.io`, where `GH_USERNAME` represents your GitHub username.
-
-Then clone it to your local machine and run:
-
+```bash 
+bundle exec jekyll s
 ```
-$ bundle
+Give it some time and the site will be available locally.<br />
+The site works with live updates, change and save the files in the repo and they will update automatically on your local deployment.<br />
+If it does not automatically update, refresh your browser. <br />
+
+Make changes to files and push them to your branch. <br />
+You will most likely need to build a [**personal access token**](https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/creating-a-personal-access-token) to do this.<br />
+
+```bash
+git config --local credential.helper store
+git add .
+git commit -m "made some changes"
+git push
 ```
 
-## Usage
+### Create/Merge - Merge Request
 
-Please see the [theme's docs](https://github.com/cotes2020/jekyll-theme-chirpy#documentation).
+Once you have completed all the changes you would like to do, create a MR with your branch as source and master (main) and target. <br />
+After that you can merge your branch and squash commits into one, creating an overall description commit of changes. 
 
-## License
+### Site CI/CD
 
-This work is published under [MIT][mit] License.
+The site has a GitHub action that will re-bundle and serve based on commits to master (main). <br />
+Check the site after the action has completed to ensure expected changes have completed. 
 
-[gem]: https://rubygems.org/gems/jekyll-theme-chirpy
-[chirpy]: https://github.com/cotes2020/jekyll-theme-chirpy/
-[use-template]: https://github.com/cotes2020/chirpy-starter/generate
-[CD]: https://en.wikipedia.org/wiki/Continuous_deployment
-[mit]: https://github.com/cotes2020/chirpy-starter/blob/master/LICENSE
+## Posts and Jekyll/Chirpy Guidance
+
+This site is based on the theme Chirpy created by [***cotes2020***](https://github.com/cotes2020).<br /> 
+Instructions and help can be found on the [***Chirpy repo page***](https://github.com/cotes2020/jekyll-theme-chirpy)<br />
+
+[***TechnoTim***](https://github.com/techno-tim) also has great information and guidance on developing, deploying, and updating the [***site on his docs page***](https://docs.technotim.live/posts/jekyll-docs-site/).<br />
+(also hosted with the Chirpy theme) <br />
+
+Posts have a specific amount of metadata needed to help format the post in relation to the rest of the posts, including tags and such. <br />
+Look in the `_posts` folder for examples. 
+
+
