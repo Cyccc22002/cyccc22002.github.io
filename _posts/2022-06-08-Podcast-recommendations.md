@@ -13,8 +13,8 @@ tags: [CyCCC, Recommendations, Podcast, Tech, ]
 ####  Podcast recommendations to engage the forever learner in Cyber and other domains. 
 
 ## Cyber Related:
-### [Malicious Life](https://malicious.life/)
-{% include module.html image_path="/assets/MaliciousLife.png" title="MaliciousLife-Logo" description="Malicious Life by Cybereason tells the unknown stories of the history of cybersecurity, with comments and reflections by real hackers, security experts, journalists, and politicians." %}
+<!-- ### [Malicious Life](https://malicious.life/)
+{% include module.html image_path="/assets/MaliciousLife.png" title="MaliciousLife-Logo" description="Malicious Life by Cybereason tells the unknown stories of the history of cybersecurity, with comments and reflections by real hackers, security experts, journalists, and politicians." %} -->
 
 <div style="clear: both;">
   <div style="float: left; margin-right 10%;">
