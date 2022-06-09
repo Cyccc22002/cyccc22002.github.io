@@ -13,21 +13,8 @@ tags: [CyCCC, Recommendations, Podcast, Tech, ]
 ####  Podcast recommendations to engage the forever learner in Cyber and other domains. 
 
 ## Cyber Related:
-<div style="clear: both;">
-  <div style="float: left; margin-right 10%;">
-    <img src="/assets/MaliciousLife.png" alt="" href="https://malicious.life" width="500" height="500">
-  </div>
-  <div>
-    <h3 href="https://malicious.life">Malicious Life</h3>
-    <p>Malicious Life by Cybereason tells the unknown stories of the history of cybersecurity, with comments and reflections by real hackers, security experts, journalists, and politicians.</p>
-  </div>
-</div>
-<br />
-<!-- | Description |  |
-|:-:|:-:|
-| Malicious Life by Cybereason tells the unknown stories of the history of cybersecurity, with comments and reflections by real hackers, security experts, journalists, and politicians. | ![MaliciousLife-Logo](/assets/MaliciousLife.png = 500x500) | -->
-
-### [Darknet Diaries](https://darknetdiaries.com)
+{% include module.html site_link="https://malicious.life" image_path="/assets/MaliciousLife.png" title="MaliciousLife-Logo" description="Malicious Life by Cybereason tells the unknown stories of the history of cybersecurity, with comments and reflections by real hackers, security experts, journalists, and politicians." %}
+{% include module.html site_link="https://darknetdiaries.com" image_path="/assets/DarknetDiaries.png" title="Darknet Diaries" description="This is a podcast about hackers, breaches, shadow government activity, hacktivism, cybercrime, and all the things that dwell on the hidden parts of the network. This is Darknet Diaries." %}
 
 | Description |  |
 |:-:|:-:|
