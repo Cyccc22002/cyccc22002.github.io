@@ -14,10 +14,12 @@ tags: [CyCCC, Recommendations, Podcast, Tech, ]
 
 ## Cyber Related:
 ### [Malicious Life](https://malicious.life/)
+{% include module.html image_path="/assets/MaliciousLife.png" title="MaliciousLife-Logo" description="Malicious Life by Cybereason tells the unknown stories of the history of cybersecurity, with comments and reflections by real hackers, security experts, journalists, and politicians." %}
 
-| Description |  |
+
+<!-- | Description |  |
 |:-:|:-:|
-| Malicious Life by Cybereason tells the unknown stories of the history of cybersecurity, with comments and reflections by real hackers, security experts, journalists, and politicians. | ![MaliciousLife-Logo](/assets/MaliciousLife.png = 500x500) |
+| Malicious Life by Cybereason tells the unknown stories of the history of cybersecurity, with comments and reflections by real hackers, security experts, journalists, and politicians. | ![MaliciousLife-Logo](/assets/MaliciousLife.png = 500x500) | -->
 
 ### [Darknet Diaries](https://darknetdiaries.com)
 
