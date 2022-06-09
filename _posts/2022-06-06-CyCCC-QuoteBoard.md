@@ -5,7 +5,7 @@ author:
 date: 2022-06-05 14:00:00 +0800
 categories: [Blogging, Quotes]
 tags: [CyCCC, Quotes]
-pinned: true
+pin: true
 ---
 
 # CyCCC 22-002 Quoteboard
