@@ -23,6 +23,6 @@ tags: [CyCCC, Recommendations, Podcast, Tech, ]
 {% include module.right.html site_link="https://danielmiessler.com/podcast/" image_path="/assets/Unsupervised-Learning-logo.png" title="Unsupervised Learning" description="Exploring the intersection of security, technology, and society—and what might be coming next.<br /> (Personal note, this is a news-ish type podcast, take information and opinions with grain of salt)" %}
 
 ## Class Recommendations - Other than tech
-{% include module.left.html site_link="https://hubermanlab.com/" image_path="/assets/Unsupervised-Learning-logo.png" title="Huberman Lab" description="Andrew Huberman, Ph.D., is a neuroscientist and tenured Professor in the Department of Neurobiology at the Stanford University School of Medicine. He has made numerous significant contributions to the fields of brain development, brain function and neural plasticity, which is the ability of our nervous system to rewire and learn new behaviors, skills and cognitive functioning." %}
+{% include module.left.html site_link="https://hubermanlab.com/" image_path="/assets/HubermanLab-logo.png" title="Huberman Lab" description="Andrew Huberman, Ph.D., is a neuroscientist and tenured Professor in the Department of Neurobiology at the Stanford University School of Medicine. He has made numerous significant contributions to the fields of brain development, brain function and neural plasticity, which is the ability of our nervous system to rewire and learn new behaviors, skills and cognitive functioning." %}
 
 ---
