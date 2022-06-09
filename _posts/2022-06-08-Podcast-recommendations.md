@@ -16,7 +16,15 @@ tags: [CyCCC, Recommendations, Podcast, Tech, ]
 ### [Malicious Life](https://malicious.life/)
 {% include module.html image_path="/assets/MaliciousLife.png" title="MaliciousLife-Logo" description="Malicious Life by Cybereason tells the unknown stories of the history of cybersecurity, with comments and reflections by real hackers, security experts, journalists, and politicians." %}
 
-
+<div style="clear: both;">
+  <div style="float: left; margin-right 1em;">
+    <img src="/assets/MaliciousLife.png" alt="" href="https://malicious.life/" width="500" height="500">
+  </div>
+  <div>
+    <h3 href="https://malicious.life/" >Malicious Life</h3>
+    <p>Malicious Life by Cybereason tells the unknown stories of the history of cybersecurity, with comments and reflections by real hackers, security experts, journalists, and politicians.</p>
+  </div>
+</div>
 <!-- | Description |  |
 |:-:|:-:|
 | Malicious Life by Cybereason tells the unknown stories of the history of cybersecurity, with comments and reflections by real hackers, security experts, journalists, and politicians. | ![MaliciousLife-Logo](/assets/MaliciousLife.png = 500x500) | -->
