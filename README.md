@@ -1,4 +1,4 @@
-# CyCCC 22-002 Blog Site [![GitHub license](https://img.shields.io/github/license/cotes2020/chirpy-starter.svg?color=blue)][mit]
+# CyCCC 22-002 Blog Site ![GitHub license](https://img.shields.io/github/license/cotes2020/chirpy-starter.svg?color=blue) ![Site Build](https://github.com/Cyccc22002/cyccc22002.github.io/actions/workflows/pages/pages-build-deployment/badge.svg)
 
 #### PREFACE
 This public repo is used to host the Cyber Captians Career Course Blog site. This does not represent the Army in any way.<br />
