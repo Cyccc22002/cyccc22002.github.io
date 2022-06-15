@@ -11,7 +11,7 @@ image:
   height: 1000
   alt: CyCCC 22-002 Class logo
 ---
-![CyberSchoolImage](/assets/United_States_Army_Cyber_School.png)
+![CyberSchoolImage](/assets/images/United_States_Army_Cyber_School.png)
 
 ## Cyber Captains Career Course
 ---

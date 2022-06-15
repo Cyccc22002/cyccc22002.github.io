@@ -11,7 +11,7 @@ pin: true
 # CyCCC 22-002 Quoteboard
 Cyber Captains Career Course 22-002 notable quotes.<br/>
 ***Preface - All quotes are in good fun and have no malicious intent.***<br/>
-<img src="/assets/CyCCC-logo.png" alt="" width="300" height="300"/>
+<img src="/assets/images/CyCCC-logo.png" alt="" width="300" height="300"/>
 
 `Happiest Place on Earth`<br/>
 `Denied`<br/>

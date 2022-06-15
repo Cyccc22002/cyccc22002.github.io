@@ -6,7 +6,7 @@ date: 2022-06-08 14:00:00 +0800
 categories: [Blogging, Recommendations]
 tags: [CyCCC, Recommendations, Podcast, Tech, ]
 ---
-<!-- ![CyCCC22002Image](/assets/CyCCC22002-logo.jpg) -->
+<!-- ![CyCCC22002Image](/assets/images/CyCCC22002-logo.jpg) -->
 
 # Forever Learner - Podcast Recommendations
 ---

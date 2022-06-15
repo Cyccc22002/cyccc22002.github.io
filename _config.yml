@@ -26,7 +26,7 @@ timezone:
 
 title: CyCCC 22-002                          # the main title
 
-logo: "/assets/CyCCC-logo.png"
+logo: "/assets/images/CyCCC-logo.png"
 
 tagline: This is a site to collect and maintain information from the Cyber Captains Career Course 22-002.  # it will display as the sub-title
 
@@ -87,7 +87,7 @@ theme_mode:   [dark]
 img_cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar: '/assets/CyCCC-logo.png'
+avatar: '/assets/images/CyCCC-logo.png'
 
 # boolean type, the global switch for ToC in posts.
 toc: true

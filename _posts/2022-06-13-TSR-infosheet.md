@@ -13,7 +13,7 @@ With life changing you maybe looking to leave Active Duty (REFRAD). If you are d
 
 ### ARCYBER TSR TEAM WILL ONLY ENGAGE TRANSITIONING AC MEMBERS WITHIN LAST 9 MONTHS OF THEIR ETS DATE.<br/><br/> 
 
-![TSR-Quad](/assets/TSRP-quad-chart.png)
+![TSR-Quad](/assets/images/TSRP-quad-chart.png)
 
 # TSRP Info Sheet
-[![TSR-Info-Sheet](/assets/TSR-info-sheet.png)](https://www.hiremilitary.us/)
+[![TSR-Info-Sheet](/assets/images/TSR-info-sheet.png)](https://www.hiremilitary.us/)
