@@ -19,7 +19,7 @@ This is the "most" current SOP that I can find. 22 January 2021<br/>
 
 ## Credit Opportunities 
 ***Be sure to acknowledge the notes at the bottom of this Annex***
-<object data="/assets/files/Annex A Course Credit Criteria 20210115.pdf" type="application/pdf">
+<object data="/assets/files/Annex A Course Credit Criteria 20210115.pdf" type="application/pdf" style="width:100%">
     <embed src="/assets/files/Annex A Course Credit Criteria 20210115.pdf">
         <p>This browser does not support PDFs. Please download the PDF to view it: <a href="/assets/files/Annex A Course Credit Criteria 20210115.pdf">Download PDF</a>.</p>
     </embed>
@@ -31,5 +31,5 @@ When requesting credit, you are required to build the request through a template
 [Annex B - Course Credit worksheet](/assets/files/Annex B Course Credit Worksheets 20210115.docx)
 
 Here is the example that is used.<br/>
-[Annex B - Course Credit worksheet](/assets/files/Annex C Course Credit Example Packet 20200224.pdf)<br/>
+[Annex C - Example Credit Packet](/assets/files/Annex C Course Credit Example Packet 20200224.pdf)<br/>
 ***the example is older than the newest worksheet above. Although all that changed is the worksheet portion***
