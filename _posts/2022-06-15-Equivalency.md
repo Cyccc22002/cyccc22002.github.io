@@ -19,7 +19,7 @@ This is the "most" current SOP that I can find. 22 January 2021<br/>
 
 ## Credit Opportunities 
 ***Be sure to acknowledge the notes at the bottom of this Annex***
-<object data="/assets/files/Annex A Course Credit Criteria 20210115.pdf" type="application/pdf" style="width:100%">
+<object data="/assets/files/Annex A Course Credit Criteria 20210115.pdf" type="application/pdf" style="width:100%; height: 300px">
     <embed src="/assets/files/Annex A Course Credit Criteria 20210115.pdf">
         <p>This browser does not support PDFs. Please download the PDF to view it: <a href="/assets/files/Annex A Course Credit Criteria 20210115.pdf">Download PDF</a>.</p>
     </embed>
@@ -33,3 +33,15 @@ When requesting credit, you are required to build the request through a template
 Here is the example that is used.<br/>
 [Annex C - Example Credit Packet](/assets/files/Annex C Course Credit Example Packet 20200224.pdf)<br/>
 ***the example is older than the newest worksheet above. Although all that changed is the worksheet portion***
+
+## Sources of equivalency information
+MilSuite is a CAC enabled site that allows for a forum based communication. The information gathered above comes from one o the updated posts regarding the PME courses and equivalency standards. I would advise checking the post [here](https://www.milsuite.mil/book/message/921581) if there are any updates to the SOP. At the time of writing this post it had a relatively new change posted updating the revamped CyCCC course and annotating the recall of using PWK as a CsRA replacement. 
+
+Within the post linked above there are contact information directing who would receive your completed credit packet. It should not be a surprise that the Guard has a different POC than Compo 1 and 3. Please tak note of that.
+
+## Timeline
+This is a tricky subject, with the go to cyber answer of *"it depends"*.  Although I will do my best describing the lowest amount of time to the "most" amount of time.<br/>
+As it stands now, if you are coming to Cyber without equivalency in any subject, you can expect to be mandated to attend:<br/>
+![Cyber-Courses](/assets/images/Cyber-class-length.png)<br/>
+That is not including gaining your 8140 requirements.<br/>
+For the lowest amount of time, there is a chance of earning full qualification out the gate with your VTIP request. Although with the branch growing and requirements changing I can say that is becoming less of an option. 
