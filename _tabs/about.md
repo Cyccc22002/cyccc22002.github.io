@@ -28,4 +28,4 @@ S4: Identify classrooms supply shortfalls.
 S6: Identify classroom IT that is inoperable so CTB S6 can address.  Assist classmates with IT issues as appropriate. 
 
 #### Class Schedule
-![CyberClassSchedule](/assets/Classschedule.png)
+![CyberClassSchedule](/assets/images/Classschedule.png)
