@@ -1,17 +1,16 @@
 ---
-title: What I Wish I knew - OPD
+title: Covering Certification Costs: ArmyIgnitED CA
 author: 
   name: Reece Watkins
 date: 2022-07-14 14:00:00 +0800
-categories: [Blogging, OPD]
-tags: [CyCCC, OPD]
+categories: [Blogging, Certifications, Resources]
+tags: [CyCCC, CA, TA]
 ---
 
-# What I wish I knew, Growing as a leader
-As I look back on my career in the Army, may it be the Guard or otherwise, I find myself thinking about the information and procedures that I know now that would've changed how I handled situations. Although I am not "Pure Cyber" many things can blanket across all MOSs and just be general knowledge assisting in being an Army Officer.<br/>
+[//]: <> (https://www.cool.osd.mil/army/costs_and_funding/army_ca_faq.htm)
+## ArmyIgnitED/ArmyCool (Credentiling Opportunities On-line)
+### Overview
+The ArmyIgnited Credentialing Assistance program has been around for a while, supporting Soldiers in progressing their proffesional education. If you are unfamilliar with the assistance programs there are two types; Credential Assistance and Tuition Assistance. Of which they each have their strengths and weaknesses. Now I will be focusing on the CA portion of ArmyIgnited, having a overview of providing **$4k** each **fiscal year**.  
 
-I was having dinner with a few of my LT's as an impromptu OPD while we are all out at Gordon doing out respective PME schooling, as a few of them I don’t get to see often through a byproduct of the Guard splitting a CPT across states. Knowledge gaps were being identified, what some would find trivial, though only if you know you should be thinking about it. Some of the topics in this post may be a direct correlation to the Guard just as a TLDR is any of my COMPO 1 or 3 happen to read this. But regardless take what you will from it. 
-
-career progression
-KD positions 
-mamanging officers careers
+### Elegibility
+One big point is you must be serving in the Army currently, may it be in any Component (Regular Army, the Army National Guard/Army National Guard of the United States, and the U.S. Army Reserve). The CA program is available to enlisted, warrant officers, and officers. According their site, Officers must have completed BOLC prior to getting claims accepted, although there are cases of using your MOS as a case to get it prior for those long running BOLCs (Aviation and Cyber for example). 
