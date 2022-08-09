@@ -14,3 +14,7 @@ The ArmyIgnited Credentialing Assistance program has been around for a while, su
 
 ### Elegibility
 One big point is you must be serving in the Army currently, may it be in any Component (Regular Army, the Army National Guard/Army National Guard of the United States, and the U.S. Army Reserve). The CA program is available to enlisted, warrant officers, and officers. According their site, Officers must have completed BOLC prior to getting claims accepted, although there are cases of using your MOS as a case to get it prior for those long running BOLCs (Aviation and Cyber for example). 
+
+
+
+# MORE INFO COMING
