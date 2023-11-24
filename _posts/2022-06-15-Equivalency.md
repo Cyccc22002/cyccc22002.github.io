@@ -35,7 +35,7 @@ Here is the example that is used.<br/>
 ***the example is older than the newest worksheet above. Although all that changed is the worksheet portion***
 
 ## Sources of equivalency information
-MilSuite is a CAC enabled site that allows for a forum based communication. The information gathered above comes from one o the updated posts regarding the PME courses and equivalency standards. I would advise checking the post [here](https://www.milsuite.mil/book/message/921581) if there are any updates to the SOP. At the time of writing this post it had a relatively new change posted updating the revamped CyCCC course and annotating the recall of using PWK as a CsRA replacement. 
+MilSuite is a CAC enabled site that allows for a forum based communication. The information gathered above comes from one o the updated posts regarding the PME courses and equivalency standards. I would advise checking the post [here](https://www.milsuite.mil/book/docs/DOC-748306) if there are any updates to the SOP. At the time of writing this post it had a relatively new change posted updating the revamped CyCCC course and annotating the recall of using PWK as a CsRA replacement. 
 
 Within the post linked above there are contact information directing who would receive your completed credit packet. It should not be a surprise that the Guard has a different POC than Compo 1 and 3. Please tak note of that.
 
